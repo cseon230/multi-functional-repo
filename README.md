@@ -84,3 +84,5 @@ multi-functional-repo/
 
 ```
 
+## 6. 문서
+[Git Submodule 가이드](docs/git-submodule.md)
