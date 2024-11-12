@@ -1,0 +1,6 @@
+[submodule "repos/jyh/jyh-projectB-git-submodule"]
+	path = repos/jyh/jyh-projectB-git-submodule
+	url = https://github.com/junsun0708/jyh-projectB-git-submodule.git
+[submodule "repos/jyh/jyh-projectA-git-submodule"]
+	path = repos/jyh/jyh-projectA-git-submodule
+	url = https://github.com/junsun0708/jyh-projectA-git-submodule.git
