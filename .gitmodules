@@ -4,3 +4,6 @@
 [submodule "repos/jyh/jyh-projectA-git-submodule"]
 	path = repos/jyh/jyh-projectA-git-submodule
 	url = https://github.com/junsun0708/jyh-projectA-git-submodule.git
+[submodule "repos/jyh/jyh-cursorai-chatgpt-clone"]
+	path = repos/jyh/jyh-cursorai-chatgpt-clone
+	url = git@github.com:junsun0708/jyh-cursorai-chatgpt-clone.git
