@@ -10,3 +10,6 @@
 [submodule "repos/jyh/jyh-pomodoro-react"]
 	path = repos/jyh/jyh-pomodoro-react
 	url = https://github.com/junsun0708/jyh-pomodoro-react.git
+[submodule "repos/jyh/jyh-todo-react-typescript"]
+	path = repos/jyh/jyh-todo-react-typescript
+	url = https://github.com/junsun0708/jyh-todo-react-typescript.git
