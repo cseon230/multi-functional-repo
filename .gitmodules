@@ -13,3 +13,6 @@
 [submodule "repos/jyh/jyh-todo-react-typescript"]
 	path = repos/jyh/jyh-todo-react-typescript
 	url = https://github.com/junsun0708/jyh-todo-react-typescript.git
+[submodule "repos/jyh/jyh-docs"]
+	path = repos/jyh/jyh-docs
+	url = https://github.com/junsun0708/jyh-docs.git
